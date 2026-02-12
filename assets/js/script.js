@@ -1892,7 +1892,7 @@ function initMemoriesGallery() {
             date: '22 mars 2024',
             title: 'La ou toute a vraiment débuté pour de vrai',
             description: 'Le temps passe vite quand on est heureux. Chaque jour avec toi est un cadeau précieux.',
-            image:'assets/images/image3.jpeg' // REMPLACEZ
+            image:'assets/images/couple1.jpg' // REMPLACEZ
         },
         {
             id: 2,
@@ -1900,7 +1900,7 @@ function initMemoriesGallery() {
             date: '3 Avril 2024',
             title: 'Meme après ma betise tu étais la ...',
             description: 'BISOU MON COEUR',
-            image:'assets/images/image5.jpeg' // REMPLACEZ
+            image:'assets/images/couple2.jpg' // REMPLACEZ
         },
         {
             id: 3,
@@ -1908,56 +1908,7 @@ function initMemoriesGallery() {
             date: '10 Avril 2024',
             title: 'Notre Première sortie de couple ',
             description: 'En tout cas je sais pas a qui tu faisais bisou mais tu vas m\'expliquer ça fhum',
-            image:'assets/images/image4.jpeg' // REMPLACEZ
-        },
-        {
-            id: 4,
-            category: 'couple',
-            date: '6 Aout 2024',
-            title: 'On sent que tu es fan de moi tchiaaaa mdr',
-            description: 'Bisou ça la si j\'avais pas fais la fhum Dieu seul allais connaitre mon sort',
-            image: 'assets/images/image10.jpeg' // REMPLACEZ
-        },
-        {
-            id: 5,
-            category: 'special',
-            date: '5 Décembre 2025',
-            title: 'TCHIAAAAAAA ',
-            description: 'MOi seul mon problème...',
-            image: 'assets/images/image8.jpeg' // REMPLACEZ
-        },
-        {
-            id: 6,
-            category: 'voyage',
-            date: '5 Décembre 2025',
-            title: ' anitchoonnnn ',
-            description: 'Quand je te regarde comme ça et je me dis wep tu es problème meme tchiaaaaaaa ',
-            image: 'assets/images/image7.jpeg' // REMPLACEZ
-        },
-        {
-            id: 7,
-            category: 'voyage',
-            date: '21 Décembre 2025',
-            title: ' PRISE DES PORTES 2026',
-            description: 'l\'ange CISCO et l\'ange CISCA ',
-            image: 'assets/images/image2.jpeg' // REMPLACEZ
-        },
-        {
-            id: 8,
-            category: 'couple',
-            date: '15 Décembre 2025',
-            title: 'Moments Complices',
-            description: 'Ces petits moments qui comptent. Les fous rires, les regards complices, notre connexion unique.',
-            image: 'assets/images/image6.jpeg' // REMPLACEZ
-        },
-        {
-            id: 9,
-            category: 'couple',
-            date: '31 Décembre 2025',
-            title: 'Une super soirée avec madame mon épouse',
-            description: 'Tu es fan ma petite,Souri orrrrrrrr mdrrrrr bisouuuuuuu labas ',
-            image: 'assets/images/image.jpeg'
-            // REMPLACEZ PAR VOTRE PHOTO
+            image:'assets/images/couple1.jpg' // REMPLACEZ
         },
        
        
